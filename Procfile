@@ -1,1 +1,1 @@
-celery: celery -A abc
+web: gunicorn mysite.wsgi:application
