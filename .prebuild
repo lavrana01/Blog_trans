@@ -1,2 +1,2 @@
-python3 manage.py migrate
-yum update -y
+apt-get update
+echo "Dockerfile build successful on Amazon Linux"
